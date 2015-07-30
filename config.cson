@@ -1,0 +1,32 @@
+"*":
+  "exception-reporting":
+    userId: "fc915801-5bea-92c2-34a5-e546b68fca85"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-dark-syntax"
+    ]
+  "atom-typescript": {}
+  linter: {}
+  "merge-conflicts":
+    gitPath: "/usr/local/bin/git"
+  minimap: {}
+  "project-manager":
+    closeCurrent: true
+  "vim-mode": {}
+  editor:
+    invisibles: {}
+    fontFamily: "Ricty"
+    preferredLineLength: 140
+    showIndentGuide: true
+    showInvisibles: true
+    lineHeight: 1.2
+  "file-icons":
+    onChanges: true
+  "color-picker":
+    preferredFormat: "HEX"
+  "highlight-selected": {}
+  "linter-tslint":
+    tslintExecutablePath: "/usr/local/bin/tslint"
