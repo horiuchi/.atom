@@ -23,6 +23,7 @@
     showIndentGuide: true
     showInvisibles: true
     lineHeight: 1.2
+    softWrap: true
   "file-icons":
     onChanges: true
   "color-picker":
@@ -30,3 +31,7 @@
   "highlight-selected": {}
   "linter-tslint":
     tslintExecutablePath: "/usr/local/bin/tslint"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  whitespace:
+    ensureSingleTrailingNewline: false
