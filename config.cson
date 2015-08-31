@@ -35,3 +35,7 @@
     hideVcsIgnoredFiles: true
   whitespace:
     ensureSingleTrailingNewline: false
+  "atom-material-ui":
+    compactTreeView: true
+    rippleAccentColor: true
+    showTabIcons: true

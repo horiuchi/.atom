@@ -3,3 +3,8 @@
   paths: [
     "/Users/horiuchihiroki/WebstormProjects/bento-web-server"
   ]
+"web-server-bento-server":
+  title: "web-server-bento-server"
+  paths: [
+    "/Users/horiuchihiroki/WebstormProjects/web-server-bento/server"
+  ]
