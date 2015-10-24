@@ -9,7 +9,8 @@
       "atom-dark-syntax"
     ]
   "atom-typescript": {}
-  linter: {}
+  linter:
+    showErrorTabLine: true
   "merge-conflicts":
     gitPath: "/usr/local/bin/git"
   minimap: {}
@@ -39,3 +40,4 @@
     compactTreeView: true
     rippleAccentColor: true
     showTabIcons: true
+
